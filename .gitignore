@@ -1,0 +1,8 @@
+# object files
+*.o
+
+# compiled modules cache
+gcm.cache
+
+# executables
+*.out
