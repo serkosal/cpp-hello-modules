@@ -1,10 +1,6 @@
-// libmodule.cppm
-
-module;
-
-#include <iostream>
-
 export module libmodule;
+
+import std;
 
 export void hello_world() {
     std::cout << "Hello, World!";

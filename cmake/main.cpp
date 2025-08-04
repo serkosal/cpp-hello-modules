@@ -1,5 +1,3 @@
-// main.cpp
-
 import libmodule;
 
 int main() {
