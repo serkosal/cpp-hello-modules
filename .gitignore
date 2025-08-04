@@ -7,6 +7,10 @@ gcm.cache
 # executables
 *.out
 
+# IDE files
 .vscode
+
+# build directories
+build
 
 local.md
