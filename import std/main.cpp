@@ -1,6 +1,5 @@
-import <iostream>;
+import std;
 
 int main() {
-
-    std::cout << "Hello, 'import std;'!\n";
+    std::cout << "Hello, world!\n";
 }

@@ -7,4 +7,6 @@ gcm.cache
 # executables
 *.out
 
+.vscode
+
 local.md
