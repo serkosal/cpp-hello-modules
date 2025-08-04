@@ -6,3 +6,5 @@ gcm.cache
 
 # executables
 *.out
+
+local.md
